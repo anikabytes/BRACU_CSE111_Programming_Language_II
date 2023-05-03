@@ -1,3 +1,7 @@
 # BRACU-CSE111
-
-All the assignments and quiz are of Spring'22
+<html>
+  <body>
+  This folder contains materials of CSE111 Spring'22 <br/>
+  Course Faculty : TAW
+  </body>
+</html>
